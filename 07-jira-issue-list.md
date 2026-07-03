@@ -46,3 +46,9 @@ The Jira backlog was organised into four one-week sprints to simulate Agile deli
 Sprint 1 and Sprint 2 evidence: [03a-sprint-planning-sprints-1-2.png](jira-board-screenshots/03a-sprint-planning-sprints-1-2.png)
 
 Sprint 3 and Sprint 4 evidence: [03b-sprint-planning-sprints-3-4.png](jira-board-screenshots/03b-sprint-planning-sprints-3-4.png)
+
+## Sprint 1 Completion Evidence
+
+Sprint 1 focused on requirements discovery and dashboard success criteria. Both Sprint 1 stories were completed and moved to Done.
+
+Screenshot evidence: [04-sprint-1-completed.png](jira-board-screenshots/04-sprint-1-completed.png)
