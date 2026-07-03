@@ -64,3 +64,9 @@ Screenshot evidence: [05-sprint-2-completed.png](jira-board-screenshots/05-sprin
 Sprint 3 focused on revenue-at-risk analysis and dashboard development. All three Sprint 3 stories were completed and moved to Done.
 
 Screenshot evidence: [06-sprint-3-completed.png](jira-board-screenshots/06-sprint-3-completed.png)
+
+## Sprint 4 Completion Evidence
+
+Sprint 4 focused on dashboard validation, final recommendations and Agile delivery closure. All three Sprint 4 stories were completed and moved to Done.
+
+Screenshot evidence: [07-sprint-4-completed.png](jira-board-screenshots/07-sprint-4-completed.png)
