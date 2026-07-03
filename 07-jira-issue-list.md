@@ -38,3 +38,11 @@ Screenshot evidence: [01-jira-epics-created.png](jira-board-screenshots/01-jira-
 The Jira backlog was created with 12 user stories mapped to the correct epics. Each story includes an estimate to support Agile sprint planning.
 
 Screenshot evidence: [02-jira-stories-created.png](jira-board-screenshots/02-jira-stories-created.png)
+
+## Jira Sprint Planning Evidence
+
+The Jira backlog was organised into four one-week sprints to simulate Agile delivery from requirements discovery to final dashboard delivery.
+
+Sprint 1 and Sprint 2 evidence: [03a-sprint-planning-sprints-1-2.png](jira-board-screenshots/03a-sprint-planning-sprints-1-2.png)
+
+Sprint 3 and Sprint 4 evidence: [03b-sprint-planning-sprints-3-4.png](jira-board-screenshots/03b-sprint-planning-sprints-3-4.png)
