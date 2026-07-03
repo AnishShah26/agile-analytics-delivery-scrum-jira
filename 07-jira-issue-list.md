@@ -26,3 +26,9 @@ SaaS Churn Dashboard Delivery Board
 | EPIC-05 | Dashboard Development | Build an executive Power BI dashboard for stakeholder decision-making. |
 | EPIC-06 | Testing and Validation | Validate dashboard metrics, filters and outputs before final delivery. |
 | EPIC-07 | Final Delivery and Recommendations | Summarise findings, recommendations and delivery outcomes. |
+
+## Jira Evidence
+
+The initial Jira epics were created to structure the project into major Agile delivery areas.
+
+Screenshot evidence: [01-jira-epics-created.png](jira-board-screenshots/01-jira-epics-created.png)
