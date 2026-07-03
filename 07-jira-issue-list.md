@@ -27,8 +27,14 @@ SaaS Churn Dashboard Delivery Board
 | EPIC-06 | Testing and Validation | Validate dashboard metrics, filters and outputs before final delivery. |
 | EPIC-07 | Final Delivery and Recommendations | Summarise findings, recommendations and delivery outcomes. |
 
-## Jira Evidence
+## Jira Epic Evidence
 
 The initial Jira epics were created to structure the project into major Agile delivery areas.
 
 Screenshot evidence: [01-jira-epics-created.png](jira-board-screenshots/01-jira-epics-created.png)
+
+## Jira Story Evidence
+
+The Jira backlog was created with 12 user stories mapped to the correct epics. Each story includes an estimate to support Agile sprint planning.
+
+Screenshot evidence: [02-jira-stories-created.png](jira-board-screenshots/02-jira-stories-created.png)
