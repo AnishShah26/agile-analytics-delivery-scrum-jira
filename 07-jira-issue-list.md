@@ -52,3 +52,9 @@ Sprint 3 and Sprint 4 evidence: [03b-sprint-planning-sprints-3-4.png](jira-board
 Sprint 1 focused on requirements discovery and dashboard success criteria. Both Sprint 1 stories were completed and moved to Done.
 
 Screenshot evidence: [04-sprint-1-completed.png](jira-board-screenshots/04-sprint-1-completed.png)
+
+## Sprint 2 Completion Evidence
+
+Sprint 2 focused on data preparation, data quality validation and churn analysis. All four Sprint 2 stories were completed and moved to Done.
+
+Screenshot evidence: [05-sprint-2-completed.png](jira-board-screenshots/05-sprint-2-completed.png)
