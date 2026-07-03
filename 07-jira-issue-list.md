@@ -58,3 +58,9 @@ Screenshot evidence: [04-sprint-1-completed.png](jira-board-screenshots/04-sprin
 Sprint 2 focused on data preparation, data quality validation and churn analysis. All four Sprint 2 stories were completed and moved to Done.
 
 Screenshot evidence: [05-sprint-2-completed.png](jira-board-screenshots/05-sprint-2-completed.png)
+
+## Sprint 3 Completion Evidence
+
+Sprint 3 focused on revenue-at-risk analysis and dashboard development. All three Sprint 3 stories were completed and moved to Done.
+
+Screenshot evidence: [06-sprint-3-completed.png](jira-board-screenshots/06-sprint-3-completed.png)
